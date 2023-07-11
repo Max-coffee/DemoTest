@@ -5,5 +5,7 @@ public class User {
     public String name;
     public String email;
 
+    public String home;
+
     public String place;
 }
